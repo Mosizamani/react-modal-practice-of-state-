@@ -1,0 +1,6 @@
+{
+    "compilerOption": {
+        "checkJs": true,
+        "jsx": "react-jsx"
+    }
+}
